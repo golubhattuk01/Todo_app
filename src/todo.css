@@ -1,0 +1,22 @@
+input
+{
+    width: 100%;
+    margin: 5px;
+}
+.todoHeading
+{
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+.my_btn
+{
+    width: 100%;
+}
+
+.todo_container
+{
+    margin-top: 10px;
+}
+h5{
+    text-align: left;
+}
